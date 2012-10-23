@@ -1,0 +1,38 @@
+{
+    "username": "jane",
+    "status": "",
+    "password": "xyz",  
+    "lastModifiedDate": null,
+    "userID": 0,
+    "creationDate": null,
+    "masterUserToken": null,
+    "userResources": [
+      {
+            "userResourceID": 0,
+            "userID": 0,
+            "propertyName": "ExternalResourceName",
+            "propertyTypeID": 700603,
+            "propertyValue": "MOODJOURNAL",
+            "propertyValueNumber": 0,
+            "propertyValueDate": 0,
+            "groupID": 0
+        }
+    ],
+    "userPreferences": []
+}
+
+
+
+
+JSON Result:
+{
+   "username": null,
+   "status": "ACTIVE",
+   "password": null,
+   "creationDate": 1324327604093,
+   "lastModifiedDate": 1324327604093,
+   "userID": 0,
+   "masterUserToken": null,
+   "userResources": [],
+   "userPreferences": []
+}

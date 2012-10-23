@@ -1,0 +1,211 @@
+[
+    {
+        "drug_name": "24 HR Aplenzin 348 mg",
+        "imprint": "BR;348",
+        "shape": "Round",
+        "color": "White",
+        "ingredients": "Bupropion",
+        "inactive_ingredients": "ethylcellulose (100 cps) / glyceryl behenate / polyvinyl alcohol / polyethylene glycol / povidone / dibutyl sebacate / carnauba wax",
+        "size": "9.00",
+        "author": "sanofi-aventis U.S. LLC",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Aplenzin.png"
+    },
+    {
+        "drug_name": "Celexa 40 mg",
+        "imprint": "F;P;40;mg",
+        "shape": "Oval",
+        "color": "White",
+        "ingredients": "Citalopram",
+        "inactive_ingredients": "starch, corn / croscarmellose sodium / glycerin / lactose monohydrate / magnesium stearate / hypromelloses / cellulose, microcrystalline / polyethylene glycol / titanium dioxide",
+        "size": "12.00",
+        "author": "Physicians Total Care, Inc.",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Celexa.png"
+    },
+    {
+        "drug_name": "Cymbalta 60 mg",
+        "imprint": "LILLY;3270;60;mg",
+        "shape": "Capsule",
+        "color": "Green, Blue",
+        "ingredients": "Duloxetine",
+        "inactive_ingredients": "gelatin / hypromelloses / hypromellose acetate succinate 16070722 (3 mm2/s) / sodium lauryl sulfate / sucrose / talc / titanium dioxide / triethyl citrate / fd&c blue no. 2 / ferric oxide yellow",
+        "size": "20.00",
+        "author": "St Marys Medical Park Pharmacy",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Cymbalta.png"
+    },
+    {
+        "drug_name": "24 HR Effexor 75 mg",
+        "imprint": "W;EffexorXR;75",
+        "shape": "Capsule",
+        "color": "Orange",
+        "ingredients": "Venlafaxine",
+        "inactive_ingredients": "powdered cellulose / ethylcellulose (100 cps) / gelatin / hypromellose / hypromellose 2910 (6 cps) / ferric oxide red / titanium dioxide",
+        "size": "20.00",
+        "author": "Wyeth Pharmaceuticals Company",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Effexor.png"
+    },
+    {
+        "drug_name": "Lexapro 20 mg",
+        "imprint": "F;L;20",
+        "shape": "Round",
+        "color": "White",
+        "ingredients": "Escitalopram",
+        "inactive_ingredients": "talc / croscarmellose sodium / cellulose / silicon dioxide / magnesium stearate",
+        "size": "10.00",
+        "author": "Forest Laboratories Inc.",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Lexapro.png"
+    },
+    {
+        "drug_name": "Marplan 10 mg",
+        "imprint": "Marplan;10",
+        "shape": "Round",
+        "color": "Orange",
+        "ingredients": "Isocarboxazid",
+        "inactive_ingredients": "lactose / corn starch / povidone / d&c red no. 27 / fd&c yellow no. 3 / magnesium stearate",
+        "size": "9.00",
+        "author": "Validus Pharmaceuticals, Inc.",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Marplan.png"
+    },
+    {
+        "drug_name": "Nardil 15 mg",
+        "imprint": "P;D;270",
+        "shape": "Round",
+        "color": "Orange",
+        "ingredients": "Phenelzine",
+        "inactive_ingredients": "mannitol / croscarmellose sodium / povidone / edetate disodium / magnesium stearate / isopropyl alcohol / water",
+        "size": "10.00",
+        "author": "Parke-Davis Div of Pfizer Inc",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Nardil.png"
+    },
+    {
+        "drug_name": "Norpramin 150 mg",
+        "imprint": "NORPRAMIN;150",
+        "shape": "Round",
+        "color": "White",
+        "ingredients": "Desipramine",
+        "inactive_ingredients": "fd&c blue no. 1 / sucrose / talc / titanium dioxide",
+        "size": "5.00",
+        "author": "sanofi-aventis U.S. LLC",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Norpramin.png"
+    },
+    {
+        "drug_name": "Pamelor 25 mg",
+        "imprint": "PAMELOR;25;mg;M",
+        "shape": "Capsule",
+        "color": "Orange, White",
+        "ingredients": "Nortriptyline",
+        "inactive_ingredients": "d&c yellow no. 10 / fd&c yellow no. 6 / gelatin / dimethicone 350 / starch, corn / titanium dioxide",
+        "size": "20.00",
+        "author": "Mallinckrodt, Inc.",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Pamelor.png"
+    },
+    {
+        "drug_name": "Parnate 10 mg",
+        "imprint": "PARNATE;SB",
+        "shape": "Round",
+        "color": "Red",
+        "ingredients": "Tranylcypromine",
+        "inactive_ingredients": "cellulose, microcrystalline / citric acid / croscarmellose sodium / d&c red no. 7 / fd&c blue no. 2 / fd&c red no. 40 / fd&c yellow no. 6 / gelatin / lactose / magnesium stearate / talc / titanium dioxide",
+        "size": "8.00",
+        "author": "GlaxoSmithKline LLC",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Parnate.png"
+    },
+    {
+        "drug_name": "Paxil 40 mg",
+        "imprint": "PAXIL;40",
+        "shape": "Oval",
+        "color": "Green",
+        "ingredients": "Paroxetine",
+        "inactive_ingredients": "dibasic calcium phosphate dihydrate / hypromelloses / magnesium stearate / polysorbate 80 / sodium starch glycolate type a potato / titanium dioxide",
+        "size": "14.00",
+        "author": "GlaxoSmithKline LLC",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Paxil.png"
+    },
+    {
+        "drug_name": "Pexeva 30 mg",
+        "imprint": "30mg;POT30",
+        "shape": "Oval",
+        "color": "Yellow",
+        "ingredients": "Paroxetine",
+        "inactive_ingredients": "anhydrous dibasic calcium phosphate / hypromellose 2910 (50 cps) / hydroxypropyl cellulose / magnesium stearate / sodium starch glycolate type a potato / titanium dioxide / ferric oxide yellow",
+        "size": "4.00",
+        "author": "NOVEN THERAPEUTICS, LLC",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Pexeva.png"
+    },
+    {
+        "drug_name": "24 HR Pristiq 50 mg",
+        "imprint": "W;50",
+        "shape": "Square",
+        "color": "Pink",
+        "ingredients": "Desvenlafaxine",
+        "inactive_ingredients": "hypromellose 2208 (15000 cps) / cellulose, microcrystalline / talc / magnesium stearate / polyethylene glycol / titanium dioxide / ferric oxide red / polyvinyl alcohol / ferric oxide yellow",
+        "size": "8.00",
+        "author": "PD-Rx Pharmaceuticals, Inc.",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Pristiq.png"
+    },
+    {
+        "drug_name": "Prozac 20 mg",
+        "imprint": "DISTA;3105;Prozac;20;mg",
+        "shape": "Capsule",
+        "color": "Yellow, Green",
+        "ingredients": "Fluoxetine",
+        "inactive_ingredients": "gelatin / sodium lauryl sulfate / starch, corn / titanium dioxide / fd&c blue no. 1 / dimethicone / ferric oxide yellow / ferrosoferric oxide",
+        "size": "16.00",
+        "author": "Dista Products Company",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Prozac.png"
+    },
+    {
+        "drug_name": "Remeron 30 mg",
+        "imprint": "T2Z",
+        "shape": "Round",
+        "color": "White",
+        "ingredients": "Mirtazapine",
+        "inactive_ingredients": "aspartame / citric acid monohydrate / crospovidone / hypromellose / magnesium stearate / mannitol / cellulose, microcrystalline / povidone / sodium bicarbonate / sucrose",
+        "size": "13.00",
+        "author": "Organon Pharmaceuticals USA",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Remeron.png"
+    },
+    {
+        "drug_name": "Sarafem 20 mg",
+        "imprint": "LILLY 3220/20 mg",
+        "shape": "Capsule",
+        "color": "Pink, Purple",
+        "ingredients": "Fluoxetine",
+        "inactive_ingredients": "colloidal silicon dioxide / croscarmellose sodium / magnesium stearate / cellulose, microcrystalline / fd&c yellow no. 6 / d&c yellow no. 10",
+        "size": "6.00",
+        "author": "Warner Chilcott (US), LLC",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Sarafem.png"
+    },
+    {
+        "drug_name": "Tofranil-PM 100 mg",
+        "imprint": "M;Tofranil;PM;100mg",
+        "shape": "Capsule",
+        "color": "Orange, Yellow",
+        "ingredients": "Imipramine",
+        "inactive_ingredients": "d&c red no. 28 / fd&c blue no. 1 / fd&c yellow no. 6 / gelatin / magnesium stearate / propylparaben / methylparaben / starch, corn / talc / titanium dioxide / d&c yellow no. 10",
+        "size": "19.00",
+        "author": "Mallinckrodt, Inc.",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Tofranil.png"
+    },
+    {
+        "drug_name": "12 HR Wellbutrin SR 200 mg",
+        "imprint": "WELLBUTRIN;SR;200",
+        "shape": "Round",
+        "color": "Pink",
+        "ingredients": "Bupropion",
+        "inactive_ingredients": "carnauba wax / cysteine hydrochloride / hypromellose / magnesium stearate / cellulose, microcrystalline / polyethylene glycol / polysorbate 80 / titanium dioxide / fd&c red no. 40",
+        "size": "12.00",
+        "author": "GlaxoSmithKline LLC",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Wellbutrin.png"
+    },
+    {
+        "drug_name": "Zoloft 25 mg",
+        "imprint": "ZOLOFT;25;mg",
+        "shape": "Oval",
+        "color": "Green",
+        "ingredients": "Sertraline",
+        "inactive_ingredients": "dibasic calcium phosphate dihydrate / d&c yellow no. 10 / fd&c blue no. 1 / fd&c red no. 40 / hydroxypropyl cellulose / hypromellose / magnesium stearate / cellulose, microcrystalline / polyethylene glycol / polysorbate 80 / titanium dioxide / aluminum oxide",
+        "size": "8.00",
+        "author": "Roerig",
+        "image_url": "http://50.19.106.70/CoreServices/images/drugs/Zoloft.png"
+    }
+]

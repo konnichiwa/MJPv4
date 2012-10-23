@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>userID</key>
+	<string></string>
+	<key>password</key>
+	<string></string>
+	<key>settedMedication</key>
+	<string></string>
+	<key>rememberPass</key>
+	<string>0</string>
+	<key>date</key>
+	<string>0</string>
+	<key>token</key>
+	<string></string>
+	<key>movitationalMessage</key>
+	<string></string>
+	<key>movitationalDate</key>
+	<string></string>
+	<key>version</key>
+	<string>1.0</string>
+</dict>
+</plist>

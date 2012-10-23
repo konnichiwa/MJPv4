@@ -1,0 +1,298 @@
+[
+    {
+        "properties": [
+            {
+                "propertyname": "Medication Image",
+                "msgschedulerid": 900000,
+                "msgschedulerdetailsid": 900001,
+                "groupid": 0,
+                "propertytypeid": 700713,
+                "propertyvalue": "http://50.19.106.70/CoreServices/images/drugs/Cymbalta.png ",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Medication Name",
+                "msgschedulerid": 900000,
+                "msgschedulerdetailsid": 900002,
+                "groupid": 0,
+                "propertytypeid": 700351,
+                "propertyvalue": " Cymbalta 60 mg",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Amount I Take",
+                "msgschedulerid": 900000,
+                "msgschedulerdetailsid": 900003,
+                "groupid": 0,
+                "propertytypeid": 704510,
+                "propertyvalue": "1",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Form",
+                "msgschedulerid": 900000,
+                "msgschedulerdetailsid": 900004,
+                "groupid": 0,
+                "propertytypeid": 704511,
+                "propertyvalue": "Capsule",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Strength",
+                "msgschedulerid": 900000,
+                "msgschedulerdetailsid": 900005,
+                "groupid": 0,
+                "propertytypeid": 704512,
+                "propertyvalue": "60 mg",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Content",
+                "msgschedulerid": 900000,
+                "msgschedulerdetailsid": 900006,
+                "groupid": 0,
+                "propertytypeid": 703100,
+                "propertyvalue": null,
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            }
+        ],
+        "status": "Active",
+        "frequency": "Daily",
+        "propertiesMap": {},
+        "timezone": "America/Chicago",
+        "msgschedulerid": 900000,
+        "msgtypeid": 700210,
+        "startdate": 1324274400000,
+        "enddate": 1328075999999,
+        "planmsgtemplateid": 700177,
+        "remindertime": "8:15 AM, 12:15 PM",
+        "intermediatesch": false,
+        "scheduledRecepients": null,
+        "createddate": 1324324172015,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/meds.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/meds.png",
+        "reminderName": "Medication Reminder",
+        "pushNotification": ""
+    },
+    {
+        "properties": [
+            {
+                "propertyname": "Reminder Type",
+                "msgschedulerid": 900008,
+                "msgschedulerdetailsid": 900009,
+                "groupid": 0,
+                "propertytypeid": 705683,
+                "propertyvalue": "Physical Activity",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            }
+        ],
+        "status": "Active",
+        "frequency": "Weekly: MON,WED,FRI",
+        "propertiesMap": {},
+        "timezone": "America/Chicago",
+        "msgschedulerid": 900008,
+        "msgtypeid": 700212,
+        "startdate": 1324274400000,
+        "enddate": 1328075999999,
+        "planmsgtemplateid": 700177,
+        "remindertime": "12:20 PM",
+        "intermediatesch": false,
+        "scheduledRecepients": null,
+        "createddate": 1324324172046,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/vitals.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/vitals.png",
+        "reminderName": "Vitals Reminder",
+        "pushNotification": ""
+    },
+    {
+        "properties": [
+            {
+                "propertyname": "Medication Name",
+                "msgschedulerid": 900011,
+                "msgschedulerdetailsid": 900012,
+                "groupid": 0,
+                "propertytypeid": 700351,
+                "propertyvalue": " Prozac 20 mg",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            }
+        ],
+        "status": "Active",
+        "frequency": "30 days",
+        "propertiesMap": {},
+        "timezone": "America/Chicago",
+        "msgschedulerid": 900011,
+        "msgtypeid": 700165,
+        "startdate": 1324274400000,
+        "enddate": 1464757199999,
+        "planmsgtemplateid": 700177,
+        "remindertime": "12:25 PM",
+        "intermediatesch": false,
+        "scheduledRecepients": null,
+        "createddate": 1324324172078,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/rx.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/rx.png",
+        "reminderName": "Refill Reminder",
+        "pushNotification": ""
+    },
+    {
+        "properties": [
+            {
+                "propertyname": "Strength",
+                "msgschedulerid": 900109,
+                "msgschedulerdetailsid": 900110,
+                "groupid": 0,
+                "propertytypeid": 704512,
+                "propertyvalue": "20 mg",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Medication Name",
+                "msgschedulerid": 900109,
+                "msgschedulerdetailsid": 900111,
+                "groupid": 0,
+                "propertytypeid": 700351,
+                "propertyvalue": "Zoloft 25 mg",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Content",
+                "msgschedulerid": 900109,
+                "msgschedulerdetailsid": 900112,
+                "groupid": 0,
+                "propertytypeid": 703100,
+                "propertyvalue": "null",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Form",
+                "msgschedulerid": 900109,
+                "msgschedulerdetailsid": 900113,
+                "groupid": 0,
+                "propertytypeid": 704511,
+                "propertyvalue": "Tablet",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Medication Image",
+                "msgschedulerid": 900109,
+                "msgschedulerdetailsid": 900114,
+                "groupid": 0,
+                "propertytypeid": 700713,
+                "propertyvalue": "http://50.19.106.70/CoreServices/images/drugs/Zoloft.png",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Amount I Take",
+                "msgschedulerid": 900109,
+                "msgschedulerdetailsid": 900115,
+                "groupid": 0,
+                "propertytypeid": 704510,
+                "propertyvalue": "1",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            }
+        ],
+        "status": "Active",
+        "frequency": "8 hours",
+        "propertiesMap": {},
+        "timezone": "America/Chicago",
+        "msgschedulerid": 900109,
+        "msgtypeid": 700210,
+        "startdate": 1324274400000,
+        "enddate": 1328075999999,
+        "planmsgtemplateid": 700177,
+        "remindertime": "12:35 PM",
+        "intermediatesch": false,
+        "scheduledRecepients": null,
+        "createddate": 1324324172093,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/meds.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/meds.png",
+        "reminderName": "Medication Reminder",
+        "pushNotification": ""
+    },
+    {
+        "properties": [
+            {
+                "propertyname": "Reminder Type",
+                "msgschedulerid": 900117,
+                "msgschedulerdetailsid": 900118,
+                "groupid": 0,
+                "propertytypeid": 705683,
+                "propertyvalue": "Blood Test",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            }
+        ],
+        "status": "Active",
+        "frequency": "Monthly",
+        "propertiesMap": {},
+        "timezone": "America/Chicago",
+        "msgschedulerid": 900117,
+        "msgtypeid": 700212,
+        "startdate": 1324274400000,
+        "enddate": 1328075999999,
+        "planmsgtemplateid": 700177,
+        "remindertime": "12:40 PM",
+        "intermediatesch": false,
+        "scheduledRecepients": null,
+        "createddate": 1324324172109,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/vitals.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/vitals.png",
+        "reminderName": "Vitals Reminder",
+        "pushNotification": ""
+    },
+    {
+        "properties": [
+            {
+                "propertyname": "Days Ahead",
+                "msgschedulerid": 900232,
+                "msgschedulerdetailsid": 900233,
+                "groupid": 0,
+                "propertytypeid": 702487,
+                "propertyvalue": "3 hours",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            },
+            {
+                "propertyname": "Reminder Type",
+                "msgschedulerid": 900232,
+                "msgschedulerdetailsid": 900234,
+                "groupid": 0,
+                "propertytypeid": 705683,
+                "propertyvalue": "Individual Therapy",
+                "propertyvaluenumber": 0,
+                "propertyvaluedate": 0
+            }
+        ],
+        "status": "Active",
+        "frequency": "ONETIME",
+        "propertiesMap": {},
+        "timezone": "America/Chicago",
+        "msgschedulerid": 900232,
+        "msgtypeid": 700697,
+        "startdate": 1324360800000,
+        "enddate": 1324447199999,
+        "planmsgtemplateid": 700177,
+        "remindertime": "3:00 PM",
+        "intermediatesch": false,
+        "scheduledRecepients": null,
+        "createddate": 1324324172125,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/appts.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/appts.png",
+        "reminderName": "Appointment Reminder",
+        "pushNotification": ""
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "properties": [
+            
+            {
+                "propertyName": "Medication Name",
+                "propertyValue": "Zoloft 25 mg",
+                "propertyTypeID": 700351
+            },
+            {
+                "propertyName": "Medication Image",
+                "propertyValue": "http://50.19.106.70/CoreServices/images/drugs/Zoloft.png",
+                "propertyTypeID": 700713
+            },
+            {
+                "propertyName": "Time Taken",
+                "propertyValue": "''",
+                "propertyTypeID": 702996
+            },
+            {
+                "propertyName": "Skipped Reason",
+                "propertyValue": "I didnt need it right now",
+                "propertyTypeID": 702997
+            },
+            {
+                "propertyName": "Content",
+                "propertyValue": "Hi windows, time to take 1 Tablet of your Zoloft 25 mg dose.",
+                "propertyTypeID": 703100
+            }
+        ],
+        "timeZone": "America/Chicago",
+        "msgschedulerid": 900109,
+        "msgtypeid": 700210,
+        "systemstatus": "SKIPPED",
+        "msgboxid": 901440,
+        "deliverydate": 1324348500000,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/meds.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/meds.png",
+        "reminderName": "Medication Reminder",
+        "userid": 0,
+        "messagecontent": "DATA",
+        "msghistoryid": 901439,
+        "referencemessageid": 1,
+        "numberofnotifications": 0,
+        "notificationtype": null,
+        "lastmodifieddate": 1324427884218
+    },
+    {
+        "properties": [
+            {
+                "propertyName": "Content",
+                "propertyValue": "Hi windows, this is a reminder concerning your Group Therapy appointment.",
+                "propertyTypeID": 703100
+            }
+        ],
+        "timeZone": "America/Chicago",
+        "msgschedulerid": 900377,
+        "msgtypeid": 700697,
+        "systemstatus": "SKIPPED",
+        "msgboxid": 900382,
+        "deliverydate": 1324324560000,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/appts.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/appts.png",
+        "reminderName": "Appointment Reminder",
+        "userid": 0,
+        "messagecontent": "HTML",
+        "msghistoryid": 900381,
+        "referencemessageid": 703037,
+        "numberofnotifications": 0,
+        "notificationtype": null,
+        "lastmodifieddate": 1324324486906
+    },
+    {
+        "properties": [
+            {
+                "propertyName": "Content",
+                "propertyValue": "Time to refill your  Prozac 20 mg.",
+                "propertyTypeID": 703100
+            }
+        ],
+        "timeZone": "America/Chicago",
+        "msgschedulerid": 900011,
+        "msgtypeid": 700165,
+        "systemstatus": "COMPLETE",
+        "msgboxid": 900121,
+        "deliverydate": 1324319100000,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/rx.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/rx.png",
+        "reminderName": "Refill Reminder",
+        "userid": 0,
+        "messagecontent": "DATA",
+        "msghistoryid": 900120,
+        "referencemessageid": 705863,
+        "numberofnotifications": 0,
+        "notificationtype": null,
+        "lastmodifieddate": 1324324416140
+    },
+    {
+        "properties": [
+            {
+                "propertyName": "Content",
+                "propertyValue": "Remember about your Physical Activity.",
+                "propertyTypeID": 703100
+            }
+        ],
+        "timeZone": "America/Chicago",
+        "msgschedulerid": 900008,
+        "msgtypeid": 700212,
+        "systemstatus": "COMPLETE",
+        "msgboxid": 900106,
+        "deliverydate": 1324318800000,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/vitals.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/vitals.png",
+        "reminderName": "Vitals Reminder",
+        "userid": 0,
+        "messagecontent": "DATA",
+        "msghistoryid": 900105,
+        "referencemessageid": 705919,
+        "numberofnotifications": 0,
+        "notificationtype": null,
+        "lastmodifieddate": 1324324500875
+    },
+    {
+        "properties": [
+            {
+                "propertyName": "Content",
+                "propertyValue": "Please bring your medicine to our meeting tomorrow.",
+                "propertyTypeID": 703100
+            }
+        ],
+        "timeZone": "UTC",
+        "msgschedulerid": 900086,
+        "msgtypeid": 704421,
+        "systemstatus": "COMPLETE",
+        "msgboxid": 900094,
+        "deliverydate": 1328227200000,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/systemmessage.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/systemmessage.png",
+        "reminderName": "System Custom Reminder",
+        "userid": 0,
+        "messagecontent": "HTML",
+        "msghistoryid": 900093,
+        "referencemessageid": 704419,
+        "numberofnotifications": 0,
+        "notificationtype": null,
+        "lastmodifieddate": 1324324446515
+    },
+    {
+        "properties": [
+            {
+                "propertyName": "Medication Image",
+                "propertyValue": "http://50.19.106.70/CoreServices/images/drugs/Cymbalta.png ",
+                "propertyTypeID": 700713
+            },
+            {
+                "propertyName": "Medication Name",
+                "propertyValue": " Cymbalta 60 mg",
+                "propertyTypeID": 700351
+            },
+            {
+                "propertyName": "Time Taken",
+                "propertyValue": "2011-12-19 19:55:08+00",
+                "propertyTypeID": 702996
+            },
+            {
+                "propertyName": "Skipped Reason",
+                "propertyValue": "''",
+                "propertyTypeID": 702997
+            },
+            {
+                "propertyName": "Content",
+                "propertyValue": "Hi windows, time to take 1 Capsule of your  Cymbalta 60 mg dose.",
+                "propertyTypeID": 703100
+            }
+        ],
+        "timeZone": "America/Chicago",
+        "msgschedulerid": 900000,
+        "msgtypeid": 700210,
+        "systemstatus": "COMPLETE",
+        "msgboxid": 900066,
+        "deliverydate": 1328227200000,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/meds.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/meds.png",
+        "reminderName": "Medication Reminder",
+        "userid": 0,
+        "messagecontent": "DATA",
+        "msghistoryid": 900064,
+        "referencemessageid": 1,
+        "numberofnotifications": 0,
+        "notificationtype": null,
+        "lastmodifieddate": 1324324457390
+    },
+    {
+        "properties": [
+            {
+                "propertyName": "Content",
+                "propertyValue": "Hi windows, please don't forget to keep up with your medication",
+                "propertyTypeID": 703100
+            }
+        ],
+        "timeZone": "UTC",
+        "msgschedulerid": 900031,
+        "msgtypeid": 704399,
+        "systemstatus": "SKIPPED",
+        "msgboxid": 900057,
+        "deliverydate": 1328227200000,
+        "reminderImage": "http://50.19.106.70/CoreServices/images/systemmessage.png",
+        "reminderIcon": "http://50.19.106.70/CoreServices/images/systemmessage.png",
+        "reminderName": "System Precanned Reminder",
+        "userid": 0,
+        "messagecontent": "HTML",
+        "msghistoryid": 900051,
+        "referencemessageid": 805449,
+        "numberofnotifications": 0,
+        "notificationtype": null,
+        "lastmodifieddate": 1324324435406
+    }
+]

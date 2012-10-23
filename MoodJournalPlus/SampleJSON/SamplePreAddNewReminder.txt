@@ -1,0 +1,81 @@
+{
+    "properties": [
+        {
+            "msgschedulerid": 0,
+            "msgschedulerdetailsid": 0,
+            "groupid": 0,
+            "propertyname": "Medication Image",
+            "propertytypeid": 700713,
+            "propertyvalue": null,
+            "propertyvaluenumber": 0,
+            "propertyvaluedate": 0
+        },
+        {
+            "msgschedulerid": 0,
+            "msgschedulerdetailsid": 0,
+            "groupid": 0,
+            "propertyname": "Medication Name",
+            "propertytypeid": 700351,
+            "propertyvalue": null,
+            "propertyvaluenumber": 0,
+            "propertyvaluedate": 0
+        },
+        {
+            "msgschedulerid": 0,
+            "msgschedulerdetailsid": 0,
+            "groupid": 0,
+            "propertyname": "Amount I Take",
+            "propertytypeid": 704510,
+            "propertyvalue": null,
+            "propertyvaluenumber": 0,
+            "propertyvaluedate": 0
+        },
+        {
+            "msgschedulerid": 0,
+            "msgschedulerdetailsid": 0,
+            "groupid": 0,
+            "propertyname": "Form",
+            "propertytypeid": 704511,
+            "propertyvalue": null,
+            "propertyvaluenumber": 0,
+            "propertyvaluedate": 0
+        },
+        {
+            "msgschedulerid": 0,
+            "msgschedulerdetailsid": 0,
+            "groupid": 0,
+            "propertyname": "Strength",
+            "propertytypeid": 704512,
+            "propertyvalue": null,
+            "propertyvaluenumber": 0,
+            "propertyvaluedate": 0
+        },
+        {
+            "msgschedulerid": 0,
+            "msgschedulerdetailsid": 0,
+            "groupid": 0,
+            "propertyname": "Content",
+            "propertytypeid": 703100,
+            "propertyvalue": null,
+            "propertyvaluenumber": 0,
+            "propertyvaluedate": 0
+        }
+    ],
+    "status": null,
+    "msgschedulerid": 0,
+    "msgtypeid": 700210,
+    "startdate": 0,
+    "enddate": 0,
+    "frequency": null,
+    "planmsgtemplateid": 700177,
+    "remindertime": null,
+    "intermediatesch": false,
+    "timezone": "UTC",
+    "scheduledRecepients": null,
+    "createddate": 0,
+    "reminderImage": "http://50.19.106.70/CoreServices/images/meds.png",
+    "reminderIcon": "http://50.19.106.70/CoreServices/images/meds.png",
+    "reminderName": "Medication Reminder",
+    "pushNotification": null,
+    "propertiesMap": {}
+}
